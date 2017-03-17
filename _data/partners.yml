@@ -1,0 +1,9 @@
+- 
+  group: "General sponsor"
+  elements: 
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Asia.png"}
+- 
+  group: "With support of"
+  elements: 
+    - {name: "Asiacell", description: "Asiacell", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Asia.png", width: "120px"}
+- 
