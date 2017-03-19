@@ -46,8 +46,9 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/team/", text: "Team"}
+ - {permalink: "/topics/", text: "Tocpics"}
  - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/highlights/", text: "Conference highlights"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://Edas.info", text: "Submit using Edas"}
@@ -71,11 +72,11 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "Deadline for Submission of Papers", specialCharacter: "", info: "", detail: "June 30th, 2017"}
- - {count: "Announcement of Acceptance", specialCharacter: "", info: "", detail: "June 30th, 2017"}
- - {count: "Deadline for Registration & Payment", specialCharacter: "", info: "", detail: "June 30th, 2017"}
- - {count: "Deadline for Submission of Final Papers", specialCharacter: "", info: "", detail: "June 30th, 2017"}
- - {count: "Conference dates", specialCharacter: "", info: "	", detail: "June 30th, 2017"}
+ - {count: "Deadline for Submission of Papers", specialCharacter: "", info: "", detail: "August 1th, 2017"}
+ - {count: "Announcement of Acceptance", specialCharacter: "", info: "", detail: "September 15th, 2017"}
+ - {count: "Deadline for Submission of Final Papers", specialCharacter: "", info: "", detail: "October 15th, 2017"}
+ - {count: "Deadline for Registration & Payment", specialCharacter: "", info: "", detail: "November 1th, 2017"}
+ - {count: "Conference dates", specialCharacter: "", info: "	", detail: "November 29-30th, 2017"}
 
 # Latest News Block
 latestNewsTitle: "Conference highlights"
@@ -129,6 +130,9 @@ subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b05
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
+ticketsTitle: "Topics"
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+
 
 # Footer
 socialLinks:
@@ -194,15 +198,15 @@ directionDetailsWideCards:
      - {link: "https://www.facebook.com/pages/%D9%81%D9%86%D8%AF%D9%82-%D9%85%D8%B5%D8%A7%D9%8A%D9%81-%D8%A7%D9%84%D9%83%D9%88%D8%AA/572282946154175", text: "فندق الكوت السياحي"}
   
    -
-  #  title: "Registration"
-  #  links:
-  #   - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
   #   - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
    
    -
-  #  title: "Attendance Details"
- #   links:
-  #   - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
  #    - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
    
 # Hackathon

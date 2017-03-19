@@ -1,67 +1,14 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-07-21 09:00:00
+date:   2017-02-21 09:00:00
 isStaticPost: false
 ---
-GDG DevFest Ukraine 2014 will be held 24-25th of October in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
 
-#### Presenters – who should speak at the DevFest Conference?
+<div class="justify-text">We are delighted to invite you to Iraq, Wasit, University of Wasit to the first International conference of sustainable engineering and its application ICSEA. In this premier conference, we aim to bring and offering a unique opportunity to academia, industry practitioners and entrepreneurs alike to share their latest research, information, ideas and products relating to sustainability and resilience.
+Sustainable engineering is a general term that covers multiple engineering disciplines including but not limited to electrical, mechanical, civil, structural, environmental, and architectural engineering. It takes environmental engineering concepts to the next level by looking at the interactions between technical, ecological, social and economic systems and by avoiding shifting problems from one area to the other.
+Sustainability means living well within the ecological limits of a finite planet. More than ever, engineers need to find holistic and effective solutions to protect our vital life support systems and, at the same time, meet the needs of a growing human population.
+Concepts such as life cycle thinking, industrial ecology and sustainable systems engineering are important elements in the education and work practice of a sustainable engineer.
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
-
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
-
-#### Themes and topics – what do we expect?
-Our team prepared set of interesting topics in but if you have any cool idea you want to share not from this list, feel free to submit it as well.
-
-##### Android
-
-__Google I/O 2014__
-
-* Material Design
-* Migration to ART
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
-
-__General__
-
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
-* Patterns in Android development
-
-##### Web
-
-* AngularJS (1x and 2.0)
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
-
-
-##### Cloud
-
-* Google Cloud Platform
-  * Compute Engine
-  * App Engine
-  * Storages (SQL, NoSQL, BigData)
-  * APIs
-* Go (as a language for a Cloud Ready Apps)
-
-
-#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
-__Deadline__ is September 1, 2014
-
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+This conference gives us all the opportunity to watch and listen how our “scientific researchers and neighbors” are coping with in all sustainability in engineering fields of expertise; this is the essence of cross-fertilization of knowledge. To achieve this goal, our conference will include excellent keynote lectures, special and theme sessions and presentations in what we hope to be a most lively event encouraging discussion on challenging topics.
+Looking forward to meeting you in Iraq, Wasit, University of Wasit on (   )  Nov. 2017. </div>
