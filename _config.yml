@@ -10,8 +10,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "ICOSEA 2017"
-email: "icosea@uowasit.edu.iq"
+title: "ICASEA | 2017"
+email: "icasea@uowasit.edu.iq"
 description: "First International Conference of Sustainable Engineering and Application"
 baseurl: ""
 url: "localhost:4000"
@@ -21,10 +21,10 @@ googleAnalyticsSiteUrl: ""
 siteVerification: ""
 
 # Organizer Info
-organizerName: "ICOSEA"
+organizerName: "ICASEA | 2017"
 organizerAlternateName: "First International Conference of Sustainable Engineering and Application"
 organizerDescription: "We are delighted to invite you to Iraq, Wasit, University of Wasit to the first International conference of sustainable engineering and its application ICSEA. In this premier conference, we aim to bring and offering a unique opportunity to academia, industry practitioners and entrepreneurs alike to share their latest research, information, ideas and products relating to sustainability and resilience."
-organizerEmail: "icosea@uowasit.edu.iq"
+organizerEmail: "icasea@uowasit.edu.iq"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://alaidi.net/"
 
@@ -66,7 +66,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Submit Paper"}
 
 # About Block
-aboutTitle: "Welcome ICOSEA"
+aboutTitle: "Welcome ICASEA | 2017"
 aboutBlock:
 
 # Statistic Block
@@ -149,7 +149,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:ICOSEA@uowasit.edu.iq", text: "ICOSEA@uowasit.edu.iq"}
+   - {link: "mailto:icasea@uowasit.edu.iq", text: "icasea@uowasit.edu.iq"}
  -
   title: "FAQ"
   links:

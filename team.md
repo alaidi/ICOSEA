@@ -23,7 +23,7 @@ isStaticPost: true
  
 * <b>Analysis, Modeling, Information, Analytics and the Communication of Knowledge</b>
  New approaches to analysis, store, models and use information are needed by academia, industry practitioners and entrepreneurs to solve problems. How are big data and predictive analytics being leveraged to solve the biggest problems of our day?
- ICOSEA 2018 will have three platforms for everyone to share their ideas on the above conference themes:
+ ICASEA | 2017 will have three platforms for everyone to share their ideas on the above conference themes:
  Technical Papers, Posters and Oral Presentations
  Industry Panels
  Independence Technologies Competition
