@@ -14,7 +14,7 @@ div#header div#h-background {
 
 
 div#header div#h-top {
-	background-image: url("/img/top-background.png");
+	background-image: url("img/top-background.png");
 	background-repeat: repeat-x;
 	height: 80px;
 	position: relative;
