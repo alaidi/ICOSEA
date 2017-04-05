@@ -1,0 +1,19 @@
+div#header div#h-top {
+	display: none;
+}
+
+div#header div#h-bottom {
+	display: none;
+}
+
+div#main div.container div#m-left {
+	display: none;
+}
+
+div#footer div.container h2#f-links {
+	display: none;
+}
+
+div#footer div.container div#f-linklists {
+	display: none;
+}

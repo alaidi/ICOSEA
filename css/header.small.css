@@ -1,0 +1,52 @@
+div#header.small div#h-middle {
+	height: 173px;
+}
+
+div#header.small div#h-middle div.container div div#hm-image {
+	background-image: url("img/middle-sukiennice.png");
+	height: 172px;
+	right: 26px;
+	width: 405px;
+}
+
+div#header.small div#h-middle div.container div h1#hm-title {
+	left: 72px;
+	top: 26px;
+}
+
+div#header.small div#h-middle div.container div h1#hm-title a {
+	background-image: url("img/middle-title01.png");
+	height: 78px;
+	width: 328px;
+}
+
+div#header.small div#h-middle div.container div p#hm-dateandplace {
+	background-image: url("/img/middle-location.png");
+	height: 22px;
+	left: 17px;
+	top: 147px;
+	width: 98px;
+}
+
+div#header.small div#h-bottom {
+	background-image: url("/img/bottom-background01.png");
+	height: 56px;
+}
+
+div#header.small div#h-bottom div.container div ul#hb-sponsors li#hbs-ieee {
+	top: 14px;
+}
+
+div#header.small div#h-bottom div.container div ul#hb-sponsors li#hbs-comsoc {
+	top: 11px;
+}
+
+div#header.small div#h-bottom div.container div ul#hb-sponsors li#hbs-ifiptc6 {
+	top: 11px;
+}
+ 
+ 
+
+div#header.small div#h-bottom div.container div ul#hb-organizers li#hbo-upmc {
+	top: 13px;
+}

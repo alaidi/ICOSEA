@@ -1,0 +1,348 @@
+@import "header.small.css";
+
+div#header {
+	background-color: #5981b2;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-background {
+	height: 100%;
+	position: absolute;
+	width: 100%;
+}
+
+
+div#header div#h-top {
+	background-image: url("/img/top-background.png");
+	background-repeat: repeat-x;
+	height: 80px;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-top div.container {
+
+	height: 100%;
+	margin: auto;
+	width: 900px;
+}
+
+div#header div#h-top div.container div {
+	height: 100%;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-top div.container div h1#ht-logo {
+	display: block;
+	left: 10px;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 14px;
+}
+
+div#header div#h-top div.container div h1#ht-logo a {
+	background-image: url("/img/logos.png");
+	background-repeat: no-repeat;
+	display: block;
+	height: 52px;
+	width: 232px;
+}
+
+div#header div#h-top div.container div h1#ht-logo a span {
+	display: none;
+} 
+
+
+
+
+div#header div#h-top div.container div ul#ht-menu {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	right: 45px;
+	top: 30px;
+}
+
+div#header div#h-top div.container div ul#ht-menu li {
+	display: block;
+	float: left;
+	list-style-type: none;
+	padding-left: 12px;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a {
+	color: white;
+	display: block;
+	height: 29px;
+	line-height: 29px;
+	padding-left: 4px;
+	padding-right: 4px;
+	position: relative;
+	text-decoration: none;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a span.htm-left {
+	display: block;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 4px;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a span.htm-center {
+	display: block;
+	height: 100%;
+	padding-left: 9px;
+	padding-right: 9px;
+	top: 0;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a span.htm-right {
+	display: block;
+	height: 100%;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 4px;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a:hover span.htm-left {
+	background-image: url('img/top-menu-hover-left.png');
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a:hover span.htm-center {
+	background-image: url('img/top-menu-hover-center.png');
+	background-repeat: repeat-x;
+	background-position: center;
+}
+
+div#header div#h-top div.container div ul#ht-menu li a:hover span.htm-right {
+	background-image: url('img/top-menu-hover-right.png');
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+div#header div#h-middle {
+	height: 278px;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-middle div.container {
+	height: 100%;
+	margin: auto;
+	width: 900px;
+}
+
+div#header div#h-middle div.container div {
+	height: 100%;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-middle div.container div div#hm-image {
+	background-image: url("/img/banner1.jpg");
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	bottom: 0;
+	height: 278px;
+	position: absolute;
+	right: 5px;
+	width: 870px;
+}
+
+div#header div#h-middle div.container div h1#hm-title {
+	display: block;
+	left: 56px;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	top: 66px;
+}
+
+div#header div#h-middle div.container div h1#hm-title a {
+	background-image: url("img/middle-title.png");
+	background-repeat: no-repeat;
+	display: block;
+	height: 93px;
+	width: 400px;
+}
+
+div#header div#h-middle div.container div h1#hm-title a span {
+	display: none;
+}
+
+
+div#header div#h-middle div.container div p#hm-dateandplace span {
+	display: none;
+}
+
+div#header div#h-bottom {
+	background-image: url("/img/bottom-background.png");
+	background-repeat: repeat-x;
+	height: 60px;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-bottom div.container {
+	height: 100%;
+	margin: auto;
+	width: 900px;
+}
+
+div#header div#h-bottom div.container div {
+	height: 100%;
+	position: relative;
+	width: 100%;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors {
+	height: 100%;
+	left: 0;
+	margin:0;
+	padding: 0;
+	position: absolute;
+	top: 0;
+	width: 50%;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li {
+	display: block;
+	list-style-type: none;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li a {
+	display: block;
+	overflow: hidden;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-ieee {
+	left: 20px;
+	position: absolute;
+	top: 17px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-ieee a {
+	background-image: url("img/bottom-ieee.png");
+	background-repeat: no-repeat;
+	height: 27px;
+	width: 97px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-comsoc {
+	left: 136px;
+	position: absolute;
+	top: 14px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-itc {
+	left: 436px;
+	position: absolute;
+	top: 14px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-itc a {
+	background-image: url("img/itc.png");
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 71px;
+}
+
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-comsoc a {
+	background-image: url("img/bottom-comsoc.png");
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 119px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-ifiptc6 {
+	left: 274px;
+	position: absolute;
+	top: 14px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-ifiptc6 a {
+	background-image: url("img/bottom-ifiptc6.png");
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 25px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-euronf {
+	left: 318px;
+	position: absolute;
+	top: 14px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li#hbs-euronf a {
+	background-image: url("img/bottom-euronf.png");
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 81px;
+}
+
+div#header div#h-bottom div.container div ul#hb-sponsors li a span {
+	display: none;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers {
+	height: 100%;
+	margin:0;
+	padding: 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 50%;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers li {
+	display: block;
+	list-style-type: none;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers li a {
+	display: block;
+	overflow: hidden;
+} 
+
+div#header div#h-bottom div.container div ul#hb-organizers li#hbo-upmc {
+	position: absolute;
+	right: 90px;
+	top: 16px;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers li#hbo-upmc a {
+	background-image: url("img/bottom-upmc.png");
+	background-repeat: no-repeat;
+	height: 36px;
+	width: 72px;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers li#hbo-lip6 {
+	position: absolute;
+	right: 28px;
+	top: 16px;
+}
+
+div#header div#h-bottom div.container div ul#hb-organizers li#hbo-lip6 a {
+	background-image: url("img/lip6-white.png");
+	background-repeat: no-repeat;
+	height: 33px;
+	width: 36px;
+}
+
+
+div#header div#h-bottom div.container div ul#hb-organizers li a span {
+	display: none;
+}

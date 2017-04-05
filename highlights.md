@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title: Conference highlights
 permalink: /highlights/
-isStaticPost: true
 ---
 
 Conference highlights
@@ -21,5 +20,3 @@ Student Paper Award: the winner(s) will present the paper on the last day of the
 
 
 The aim of sustainable design is to produce places, products and services in a way that reduces use of non-renewable resources, minimizes environmental impact, and relates people with the natural environment.
-
-<img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/back.jpg" style="display:none">
