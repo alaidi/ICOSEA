@@ -21,7 +21,7 @@ div#header.small div#h-middle div.container div h1#hm-title a {
 }
 
 div#header.small div#h-middle div.container div p#hm-dateandplace {
-	background-image: url("/img/middle-location.png");
+	background-image: url("img/middle-location.png");
 	height: 22px;
 	left: 17px;
 	top: 147px;
@@ -29,7 +29,7 @@ div#header.small div#h-middle div.container div p#hm-dateandplace {
 }
 
 div#header.small div#h-bottom {
-	background-image: url("/img/bottom-background01.png");
+	background-image: url("img/bottom-background01.png");
 	height: 56px;
 }
 

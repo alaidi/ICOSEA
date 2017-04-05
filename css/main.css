@@ -36,7 +36,7 @@ div#main div.container div#m-left {
 }
 
 div#main div.container div#m-left h2 {
-	background-image: url('/img/section.png');
+	background-image: url('img/section.png');
 	background-position: bottom;
 	background-repeat: no-repeat;
 	color: rgb(124, 124, 124);
@@ -57,7 +57,7 @@ div#main div.container div#m-left ul#ml-menu {
 }
 
 div#main div.container div#m-left ul#ml-menu li {
-	background-image: url('/img/menu-separator.png');
+	background-image: url('img/menu-separator.png');
 	background-position: top;
 	background-repeat: no-repeat;
 	display: block;
@@ -71,12 +71,12 @@ div#main div.container div#m-left ul#ml-menu li:first-child {
 }
 
 div#main div.container div#m-left ul#ml-menu li div:hover {
-	background-image: url("/img/menu-hover.png");
+	background-image: url("img/menu-hover.png");
 	background-repeat: repeat-y;
 }
 
 div#main div.container div#m-left ul#ml-menu li div a {
-	background-image: url("/img/menu-inactive.png");
+	background-image: url("img/menu-inactive.png");
 	background-position: left;
 	background-repeat: no-repeat;
 	color: rgb(64, 64, 64);
@@ -90,7 +90,7 @@ div#main div.container div#m-left ul#ml-menu li div a {
 }
 
 div#main div.container div#m-left ul#ml-menu li.selected div a {
-	background-image: url("/img/menu-active.png");
+	background-image: url("img/menu-active.png");
 }
 
 div#main div.container div#m-left ul#ml-menu li ul {
@@ -237,7 +237,7 @@ div#main div.container div#m-content h2.title {
 }
 
 div#main div.container div#m-content h3 {
-	background-image: url('/img/line.png');
+	background-image: url('img/line.png');
 	background-position: bottom;
 	background-repeat: repeat-x;
 	color: rgb(117, 117, 117);
@@ -322,7 +322,7 @@ div#main div.container div#m-content ul#mc-callforpapers li {
 }
 
 div#main div.container div#m-content ul#mc-callforpapers li p {
-	background-image: url("/img/cfp-arrow.png");
+	background-image: url("img/cfp-arrow.png");
 	background-position: left center;
 	background-repeat: no-repeat;
 	border-bottom-color: #5cb246;
@@ -360,7 +360,7 @@ div#main div.container div#m-content table.colored {
 
 div#main div.container div#m-content table.colored td {
 	padding: 2px;
-	background-image: url('/img/table-verticalseparator.png');
+	background-image: url('img/table-verticalseparator.png');
 	background-position: left;
 	background-repeat: repeat-y;
 	padding-bottom: 2px;

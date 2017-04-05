@@ -14,7 +14,7 @@ div#header div#h-background {
 
 
 div#header div#h-top {
-	background-image: url("/img/top-background.png");
+	background-image: url("img/top-background.png");
 	background-repeat: repeat-x;
 	height: 80px;
 	position: relative;
@@ -44,7 +44,7 @@ div#header div#h-top div.container div h1#ht-logo {
 }
 
 div#header div#h-top div.container div h1#ht-logo a {
-	background-image: url("/img/logos.png");
+	background-image: url("img/logos.png");
 	background-repeat: no-repeat;
 	display: block;
 	height: 52px;
@@ -150,7 +150,7 @@ div#header div#h-middle div.container div {
 }
 
 div#header div#h-middle div.container div div#hm-image {
-	background-image: url("/img/banner1.jpg");
+	background-image: url("img/banner1.jpg");
 	background-position: right bottom;
 	background-repeat: no-repeat;
 	bottom: 0;
@@ -187,7 +187,7 @@ div#header div#h-middle div.container div p#hm-dateandplace span {
 }
 
 div#header div#h-bottom {
-	background-image: url("/img/bottom-background.png");
+	background-image: url("img/bottom-background.png");
 	background-repeat: repeat-x;
 	height: 60px;
 	position: relative;
