@@ -5,4 +5,23 @@
 layout: home
 ---
 
-{% include cmt.html %}
+# Coming soon
+
+Paper Submission
+
+All submissions should be written in English with a paper length of minimum four (4) and maximum eight (8) double-column printed pages (10-point font) including figures.
+All papers must be formatted formatted according to the template for conference proceedings. At least 1 author of accepted papers must be registered to the conference as presenter in order to appear in the proceedings.
+Only full paper will be accepted for the review process and all submissions must be done through Easychair Submission System. Please contact iceee@gazi.edu.tr if you have any questions about submitting your manuscripts.
+Sending papers:
+
+- Paper submission should present original unpublished research work in the areas of interest.
+
+- All submitted papers must be prepared based on the format given in the conference website.
+ 
+Template for English papers [Word File]
+
+- Only papers presented in the conference will be published in the proceeding
+
+- The official language of the conference is Persian. English papers will be indexed in IEEE Explore website.
+
+- Papers should be submitted electronically through conference website.
