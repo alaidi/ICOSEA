@@ -35,6 +35,7 @@ The conference will be held from 29 30  November 2017 at the College of Engineer
 </div>
 </div>
 </div>
+<script  src="https://code.jquery.com/jquery-2.2.4.min.js"  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
 <script type="text/javascript">
 $(document).ready(function() {
 $('.thumbnail').click(function(){
