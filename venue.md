@@ -12,10 +12,10 @@ The conference will be held from 29-30  November 2017 at the College of Engineer
 <div class="row">
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="img/venue/1.JPG"></a></div>
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="img/venue/2.JPG"></a></div>
-</div><div class="row">
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="img/venue/3.JPG"></a></div>
+</div>
+<div class="row">
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="img/venue/4.JPG"></a></div>
-</div><div class="row">
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="img/venue/5.JPG"></a></div>
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="img/venue/6.JPG"></a></div>
 </div>
