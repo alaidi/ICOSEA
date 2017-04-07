@@ -28,7 +28,6 @@ The conference will be held from 29-30  November 2017 at the College of Engineer
 <h3 class="modal-title">Heading</h3>
 </div>
 <div class="modal-body">
-
 </div>
 <div class="modal-footer">
 <button class="btn btn-default" data-dismiss="modal">Close</button>
