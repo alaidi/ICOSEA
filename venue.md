@@ -10,8 +10,6 @@ layout: home
 The conference will be held from 29 30  November 2017 at the College of Engineering, Wasit University , located in the heart of the city center and 2-hours from Baghdad International Airport. 
 
 <div class="row">
-<h1>Bootstrap 3 Lightbox image gallery using Modal</h1>
-
 <div class="col-lg-3 col-sm-4 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="//placehold.it/600x350"></a></div>
 
 
