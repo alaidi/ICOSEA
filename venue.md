@@ -10,19 +10,19 @@ layout: home
 The conference will be held from 29-30  November 2017 at the College of Engineering, Wasit University , located in the heart of the city center and 2-hours from Baghdad International Airport.
 
 <div class="row">
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="img/venue/1.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="img/venue/2.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="img/venue/3.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="img/venue/1-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 2" href="#"><img class="thumbnail img-responsive" src="img/venue/2-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 3" href="#"><img class="thumbnail img-responsive" src="img/venue/3-min.JPG"></a></div>
 </div>
 <div class="row">
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="img/venue/4.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="img/venue/5.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="img/venue/6.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 4" href="#"><img class="thumbnail img-responsive" src="img/venue/4-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 5" href="#"><img class="thumbnail img-responsive" src="img/venue/5-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 6" href="#"><img class="thumbnail img-responsive" src="img/venue/6-min.JPG"></a></div>
 </div>
 <div class="row">
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 7" href="#"><img class="thumbnail img-responsive" src="img/venue/7.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="img/venue/8.JPG"></a></div>
-<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="img/venue/9.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 7" href="#"><img class="thumbnail img-responsive" src="img/venue/7-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 8" href="#"><img class="thumbnail img-responsive" src="img/venue/8-min.JPG"></a></div>
+<div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 9" href="#"><img class="thumbnail img-responsive" src="img/venue/9-min.JPG"></a></div>
 </div>
 
 <div tabindex="-1" class="modal fade" id="myModal" role="dialog">
