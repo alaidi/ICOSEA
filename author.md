@@ -25,4 +25,4 @@ Template for English papers [Word File]
 
 - The official language of the conference is English.
 
-- Papers should be submitted electronically through edas.info website.
+- Papers should be submitted electronically through <span class="label label-success">edas.info</span> website.
