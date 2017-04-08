@@ -28,4 +28,4 @@ Template for English papers [Word File][WordFile]
 - Papers should be submitted electronically through <span class="label label-success">edas.info</span> website.
 
 
-[WordFile]: {{ site.baseurl }}/ieee_templates.docx
+[WordFile]: {{ site.baseurl }}/ieee_template.docx
