@@ -19,10 +19,13 @@ Only full paper will be accepted for the review process and all submissions must
 
 - All submitted papers must be prepared based on the format given in the conference website.
  
-Template for English papers [Word File]
+Template for English papers [Word File][WordFile]
 
 - Only papers presented in the conference will be published in the proceeding
 
 - The official language of the conference is English.
 
 - Papers should be submitted electronically through <span class="label label-success">edas.info</span> website.
+
+
+[WordFile]: {{ site.baseurl }}/ieee_templates.docx
