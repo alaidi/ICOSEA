@@ -28,6 +28,7 @@ Template for papers [Word File][WordFile]
 - Papers should be submitted electronically through <span class="label label-success">edas.info</span> website.
 - Papers Should be no more 1M size
 - The abstract 150- 200 word.
+- Maximum similarity is 20%.
 
 
 [WordFile]: {{ site.baseurl }}/icasea_template.doc
