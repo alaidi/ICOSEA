@@ -11,7 +11,7 @@ Paper Submission
 
 All submissions should be written in English with a paper length of minimum four (4) and maximum six (6) double-column printed pages (10-point font) including figures.
 All papers must be formatted according to the template for conference proceedings [download template][WordFile]. At least 1 author of accepted papers must be registered to the conference as presenter in order to appear in the proceedings.
-Only full paper will be accepted for the review process and all submissions must be done through <span class="label label-success">edas.info</span> Submission System. Please contact icasea2017@uowasit.edu.iq if you have any questions about submitting your manuscripts.
+Only full paper will be accepted for the review process and all submissions must be done through <span class="label label-success">[edas.info][edas]</span> Submission System. Please contact icasea2017@uowasit.edu.iq if you have any questions about submitting your manuscripts.
 
 # Sending papers:
 
@@ -25,10 +25,11 @@ Template for papers [download Word File][WordFile]
 
 - The official language of the conference is English.
 
-- Papers should be submitted electronically through <span class="label label-success">edas.info</span> website.
+- Papers should be submitted electronically through <span class="label label-success">[edas.info][edas]</span> website.
 - Papers Should be no more 1M size
 - The abstract 150- 200 word.
 - Maximum similarity is 20%.
 
 
 [WordFile]: {{ site.baseurl }}/icasea_template.doc
+[edas]: https://edas.info/N23720
