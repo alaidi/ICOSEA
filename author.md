@@ -29,7 +29,7 @@ Template for papers [download Word File][WordFile]
 - Papers Should be no more 1M size
 - The abstract 150- 200 word.
 - Maximum similarity is 20%.
-
+<a class="btn btn--success" href="https://edas.info/N23720">Click here to Submit a paper</a>
 
 [WordFile]: {{ site.baseurl }}/icasea_template.doc
 [edas]: https://edas.info/N23720
