@@ -52,10 +52,3 @@ $('#myModal').modal({show:true});
 });
 });
 </script>
-<script>
-window.sr = ScrollReveal();
-sr.reveal('.thumbnail', {
-duration: 2000,
-origin:'bottom'
-});
-</script>
