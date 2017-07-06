@@ -7,7 +7,7 @@ layout: home
 
 # Conference Venue
 
-The conference will be held from 29-30  November 2017 at the College of Engineering, Wasit University , located in the heart of the city center and 2-hours from Baghdad International Airport.
+The conference will be held from 29-30  March 2018 at the College of Engineering, Wasit University , located in the heart of the city center and 2-hours from Baghdad International Airport.
 
 <div class="row">
 <div class="col-lg-4 col-sm-6 col-xs-6"><a title="Image 1" href="#"><img class="thumbnail img-responsive" src="img/venue/1-min.JPG"></a></div>

@@ -7,7 +7,7 @@ layout: home
 
 # Contact Us 
 
-ICASEA | 2017 Conference Secretary Assad Hafudh Al-Defae
+ICASEA | 2018 Conference Secretary Assad Hafudh Al-Defae
 
 E-mail: icasea2017@uowasit.edu.iq
 
