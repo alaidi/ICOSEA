@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Coming Soon
 
-We would like to inform you that paper fees will be 200$=260.000IQD 
+
+We would like to inform you that paper fees will be 150$
