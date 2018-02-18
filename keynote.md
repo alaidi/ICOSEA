@@ -15,6 +15,8 @@ layout: home
 <h3 id="thumbnail-label">Prof.Dr Mustafa Özakça<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
 <p>
 Mustafa Özakça currently works at the Department of Civil Engineering, Gaziantep University. Mustafa does research in Civil Engineering, Mechanical Engineering and Structural Engineering. Their current project is 'Comparison of Various Bracing System for Self-Supporting Steel Lattice Structure Towers.</p>
-<p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+<p>
+<a href="https://www.gantep.edu.tr/en/akademik/index.php?ana=0&akadID=479&bolum_id=0" class="btn btn-primary" role="button">more info</a>
+<a href="#" class="btn btn-default" role="button">Button</a></p>
 </div>
 </div>
