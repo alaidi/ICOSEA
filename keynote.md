@@ -5,7 +5,7 @@
 layout: home
 ---
 
-### ICASEA | 2018 Conference Keynote Speakers
+## ICASEA | 2018 Conference Keynote Speakers
 
 <div class="thumbnail row">
 <div class="col-md-12 col-sm-6 col-xs-6">
