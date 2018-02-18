@@ -12,7 +12,7 @@ layout: home
 <img src="img/Mustafa_Oezakca.jpg" data-holder-rendered="true">
 </div>
 <div class="caption col-md-12 col-sm-6 col-xs-6">
-<h3 id="thumbnail-label">Mustafa Özakça<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
+<h3 id="thumbnail-label">Prof.Dr Mustafa Özakça<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
 <p>
 Mustafa Özakça currently works at the Department of Civil Engineering, Gaziantep University. Mustafa does research in Civil Engineering, Mechanical Engineering and Structural Engineering. Their current project is 'Comparison of Various Bracing System for Self-Supporting Steel Lattice Structure Towers.</p>
 <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
