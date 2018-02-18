@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# Coming soon
+# ICASIA|2018 Conference Keynote Speakers
 
 <div class="thumbnail row">
 <div class="col-md-12 col-sm-6 col-xs-6">
@@ -16,6 +16,6 @@ layout: home
 <p>
 Mustafa Özakça currently works at the Department of Civil Engineering, Gaziantep University. Mustafa does research in Civil Engineering, Mechanical Engineering and Structural Engineering. Their current project is 'Comparison of Various Bracing System for Self-Supporting Steel Lattice Structure Towers.</p>
 <p>
-<a href="https://www.gantep.edu.tr/en/akademik/index.php?ana=0&akadID=479&bolum_id=0" class="btn btn-raised btn-primary" role="button">more info</a>
+<a href="https://www.gantep.edu.tr/en/akademik/index.php?ana=0&akadID=479&bolum_id=0" class="btn btn-raised btn-primary" role="button">more info</a></p>
 </div>
 </div>
