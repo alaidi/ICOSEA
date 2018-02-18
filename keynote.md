@@ -13,7 +13,8 @@ layout: home
 </div>
 <div class="caption col-md-12 col-sm-6 col-xs-6">
 <h3 id="thumbnail-label">Thumbnail label<a class="anchorjs-link" href="#thumbnail-label"><span class="anchorjs-icon"></span></a></h3>
-<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<p>
+Mustafa Özakça currently works at the Department of Civil Engineering, Gaziantep University. Mustafa does research in Civil Engineering, Mechanical Engineering and Structural Engineering. Their current project is 'Comparison of Various Bracing System for Self-Supporting Steel Lattice Structure Towers.</p>
 <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
 </div>
 </div>
