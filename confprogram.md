@@ -6,3 +6,7 @@ layout: home
 ---
 
 ## ICASEA | 2018 Conference Keynote Speakers
+CONFERENCE PROGRAM IS AVAILABLE HERE
+NOTICE: For those who have presentation, please join before the session will start.
+
+{% include pro.html %}
