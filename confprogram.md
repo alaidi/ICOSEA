@@ -6,7 +6,12 @@ layout: home
 ---
 
 
-### CONFERENCE PROGRAM IS AVAILABLE HERE
+### 2018 Conference Schedule
+The 2018 conference will take place March 14-15th, 2018 at the Wasit University Engineering College.
+New!  [Schedule of Sessions][pdfFile] .pdf)
+
 NOTICE: For those who have presentation, please join before the session will start.
 
 {% include pro.html %}
+
+[pdfFile]: {{ site.baseurl }}/icasea2018.pdf
